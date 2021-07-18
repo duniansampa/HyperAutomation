@@ -1,0 +1,9 @@
+[submodule "ControlCenter"]
+	path = ControlCenter
+	url = https://github.com/duniansampa/ControlCenter.git
+[submodule "BotRunner"]
+	path = BotRunner
+	url = https://github.com/duniansampa/BotRunner.git
+[submodule "BotCreator"]
+	path = BotCreator
+	url = https://github.com/duniansampa/BotCreator.git
