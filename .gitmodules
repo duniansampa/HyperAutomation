@@ -7,3 +7,7 @@
 [submodule "BotCreator"]
 	path = BotCreator
 	url = https://github.com/duniansampa/BotCreator.git
+[submodule "ControlCenterServer"]
+	path = ControlCenterServer
+	url = https://github.com/duniansampa/ControlCenterServer.git
+	branch = main
